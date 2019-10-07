@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-print("こんにちは\n")
+print("helloWorld!\n")
